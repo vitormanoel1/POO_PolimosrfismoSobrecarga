@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.exe
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.deps.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.runtimeconfig.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.runtimeconfig.dev.json
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.AssemblyInfo.cs
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.dll
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.pdb
+C:\Users\winicius\Documents\SENAI_Atividades\Back-end\Atividades17\POO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobrecarga.genruntimeconfig.cache
